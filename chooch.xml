@@ -1,0 +1,51 @@
+<rss version="2.0">
+   <element>
+      <output_data null="true" />
+      <prediction_type>object_detection</prediction_type>
+      <predictions>
+         <element>
+            <class_title>mask_on</class_title>
+            <coordinates>
+               <xmax>421</xmax>
+               <xmin>343</xmin>
+               <ymax>302</ymax>
+               <ymin>199</ymin>
+            </coordinates>
+            <id null="true" />
+            <index null="true" />
+            <model_id>1033</model_id>
+            <score>0.99894077</score>
+            <track_id null="true" />
+         </element>
+         <element>
+            <class_title>mask_off</class_title>
+            <coordinates>
+               <xmax>534</xmax>
+               <xmin>431</xmin>
+               <ymax>375</ymax>
+               <ymin>247</ymin>
+            </coordinates>
+            <id null="true" />
+            <index null="true" />
+            <model_id>1033</model_id>
+            <score>0.99999964</score>
+            <track_id null="true" />
+         </element>
+         <element>
+            <class_title>mask_off</class_title>
+            <coordinates>
+               <xmax>158</xmax>
+               <xmin>74</xmin>
+               <ymax>371</ymax>
+               <ymin>268</ymin>
+            </coordinates>
+            <id null="true" />
+            <index null="true" />
+            <model_id>1033</model_id>
+            <score>0.9999975</score>
+            <track_id null="true" />
+         </element>
+      </predictions>
+      <status>ok</status>
+   </element>
+</rss>
