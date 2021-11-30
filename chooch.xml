@@ -4,7 +4,7 @@
       <prediction_type>object_detection</prediction_type>
       <predictions>
          <element>
-            <class_title>mask_on</class_title>
+            <class_title>age 25</class_title>
             <coordinates>
                <xmax>421</xmax>
                <xmin>343</xmin>
