@@ -1,51 +1,54 @@
 <rss version="2.0">
-   <element>
-      <output_data null="true" />
-      <prediction_type>object_detection</prediction_type>
-      <predictions>
-         <element>
-            <class_title>age 25</class_title>
-            <coordinates>
-               <xmax>421</xmax>
-               <xmin>343</xmin>
-               <ymax>302</ymax>
-               <ymin>199</ymin>
-            </coordinates>
-            <id null="true" />
-            <index null="true" />
-            <model_id>1033</model_id>
-            <score>0.99894077</score>
-            <track_id null="true" />
-         </element>
-         <element>
-            <class_title>mask_off</class_title>
-            <coordinates>
-               <xmax>534</xmax>
-               <xmin>431</xmin>
-               <ymax>375</ymax>
-               <ymin>247</ymin>
-            </coordinates>
-            <id null="true" />
-            <index null="true" />
-            <model_id>1033</model_id>
-            <score>0.99999964</score>
-            <track_id null="true" />
-         </element>
-         <element>
-            <class_title>age 35</class_title>
-            <coordinates>
-               <xmax>158</xmax>
-               <xmin>74</xmin>
-               <ymax>371</ymax>
-               <ymin>268</ymin>
-            </coordinates>
-            <id null="true" />
-            <index null="true" />
-            <model_id>1033</model_id>
-            <score>0.9999975</score>
-            <track_id null="true" />
-         </element>
-      </predictions>
-      <status>ok</status>
-   </element>
+     <age>45-54</age>
+   <age_score>0.128</age_score>
+   <alert_name_list />
+   <alert_unique_id_list />
+   <camera_feed_url>https://www.youtube.com/watch?v=c0GlCjZbVzk&amp;t=8s</camera_feed_url>
+   <camera_id>1716</camera_id>
+   <camera_name>YouTube</camera_name>
+   <class_title>MALE, 49, happy, mask_off</class_title>
+   <color_bgr>
+      <element>255</element>
+      <element>0</element>
+      <element>0</element>
+   </color_bgr>
+   <coordinates>
+      <xmax>1161</xmax>
+      <xmin>1065</xmin>
+      <ymax>405</ymax>
+      <ymin>289</ymin>
+   </coordinates>
+   <device_uuid>406cdf17-cc2c-46b0-8c41-05f4768f2508</device_uuid>
+   <emotion>happy</emotion>
+   <emotion_score>0.973</emotion_score>
+   <engaged>true</engaged>
+   <face_image_file>/app/chooch_ai_on_prem/data/face_data/e46b30f4-a7a4-4ccc-8699-d0485396375a.jpg</face_image_file>
+   <gender>male</gender>
+   <gender_score>0.977</gender_score>
+   <id null="true" />
+   <img_height>720</img_height>
+   <img_width>1280</img_width>
+   <index null="true" />
+   <is_object>false</is_object>
+   <mask_status>mask_off</mask_status>
+   <mask_status_score>0.995</mask_status_score>
+   <match>low_match</match>
+   <model_id>1134</model_id>
+   <model_title>Demographics 4.0</model_title>
+   <person_id null="true" />
+   <prediction_date>2021-12-15 15:06:19.190103+00:00</prediction_date>
+   <prediction_id>fd8341e6-d99f-433a-88a0-fcd6efaeb6d7</prediction_id>
+   <score>0.5845428</score>
+   <stream_class_id>-1</stream_class_id>
+   <track_id>9</track_id>
+   <unique_id>te0yjc862zpp</unique_id>
+   <unique_track_id>880c9c42-e1c8-42db-a881-dfe88a5bfcbf</unique_track_id>
+   <x_path>right</x_path>
+   <xc>1113.0</xc>
+   <y_path>up</y_path>
+   <yc>347.0</yc>
+   <zone_coords />
+   <zones>
+      <element>Entire Scene</element>
+   </zones>
 </rss>
