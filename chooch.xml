@@ -23,7 +23,7 @@
    <emotion_score>0.973</emotion_score>
    <engaged>true</engaged>
    <face_image_file>/app/chooch_ai_on_prem/data/face_data/e46b30f4-a7a4-4ccc-8699-d0485396375a.jpg</face_image_file>
-   <gender>male</gender>
+   <gender>female</gender>
    <gender_score>0.977</gender_score>
    <id null="true" />
    <img_height>720</img_height>
