@@ -1,4 +1,4 @@
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <item>
 <title>Advisory Council on Equal Employment Opportunity (ACEEO)</title>
 <link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5134</link>
@@ -482,4 +482,4 @@
 <description>East Richmond Heights Municipal Advisory Council meeting. Wednesday, Sept. 21, 2022; 6:30 pm Update: Minutes added or updated</description>
 <guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4652/638137846400000000</guid>
 </item>
-</rss>
+</feed>
