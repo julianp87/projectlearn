@@ -1,1 +1,492 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"><entry><title>Blank Background</title><author><name /></author><media:content medium="image" type="image/jpeg" url="https://wfh-dev.andishere.com/api-recognition/uploads/waHVhFFDq3XCnvc3ZvIL8Qkr29n1DQ3w_a3lNA-orNM=/recognition/blank-background-II1SyQiK.jpg" /></entry><entry><title>Blank Background 1</title><author><name /></author><media:content medium="image" type="image/jpeg" url="https://wfh-dev.andishere.com/api-recognition/uploads/waHVhFFDq3XCnvc3ZvIL8Qkr29n1DQ3w_a3lNA-orNM=/recognition/blank-background-1-cV7NUFtA.jpg" /></entry><entry><title>Welcome</title><author><name /></author><media:content medium="image" type="image/jpeg" url="https://wfh-dev.andishere.com/api-recognition/uploads/waHVhFFDq3XCnvc3ZvIL8Qkr29n1DQ3w_a3lNA-orNM=/recognition/welcome-msjhu0me.jpg" /></entry><entry><title>Happy Birthday</title><author><name /></author><media:content medium="image" type="image/jpeg" url="https://wfh-dev.andishere.com/api-recognition/uploads/waHVhFFDq3XCnvc3ZvIL8Qkr29n1DQ3w_a3lNA-orNM=/recognition/happy-birthday-q37kwu6g.jpg" /></entry><entry><title>Congrats</title><author><name /></author><media:content medium="image" type="image/jpeg" url="https://wfh-dev.andishere.com/api-recognition/uploads/waHVhFFDq3XCnvc3ZvIL8Qkr29n1DQ3w_a3lNA-orNM=/recognition/congrats-ZUs6fYJ9.jpg" /></entry><entry><title>AT&amp;T Top Performer test</title><author><name /></author><media:content medium="image" type="image/jpeg" url="https://wfh-dev.andishere.com/api-recognition/uploads/waHVhFFDq3XCnvc3ZvIL8Qkr29n1DQ3w_a3lNA-orNM=/recognition/at-t-top-performer-test-8N9DNtzu.jpg" /></entry><entry><title>AT&amp;T Background 4</title><author><name /></author><media:content medium="image" type="image/jpeg" url="https://wfh-dev.andishere.com/api-recognition/uploads/waHVhFFDq3XCnvc3ZvIL8Qkr29n1DQ3w_a3lNA-orNM=/recognition/at-t-background-4-Svl5tgUB.jpg" /></entry></feed>
+<rss version="2.0">
+<channel>
+<title>Contra Costa County, CA - Agenda Creator</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter</link>
+<lastBuildDate>Tue, 21 Mar 2023 07:35:10 -0800</lastBuildDate>
+<description>Contra Costa County, CA - Get the latest agendas</description>
+<language>en-us</language>
+<item>
+<title>Advisory Council on Equal Employment Opportunity (ACEEO)</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5134</link>
+<pubDate>Mon, 20 Mar 2023 17:11:21 -0800</pubDate>
+<description>Advisory Council on Equal Employment Opportunity (ACEEO) Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5134/638149398810000000</guid>
+</item>
+<item>
+<title>[CANCELLED] 3-20-23 JJCC-Data & Services Subcommittee Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5133</link>
+<pubDate>Mon, 20 Mar 2023 15:21:35 -0800</pubDate>
+<description>[CANCELLED] 3-20-23 JJCC-Data & Services Subcommittee Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5133/638149332950000000</guid>
+</item>
+<item>
+<title>Assessment Appeals Board Agenda (pdf) </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5132</link>
+<pubDate>Mon, 20 Mar 2023 09:56:46 -0800</pubDate>
+<description>Assessment Appeals Board Agenda (pdf) </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5132/638149138060000000</guid>
+</item>
+<item>
+<title>Agenda and minutes for the March 23, 2023 meeting of the Hazardous Materials Commission.</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5131</link>
+<pubDate>Fri, 17 Mar 2023 19:50:44 -0800</pubDate>
+<description>Agenda and minutes for the March 23, 2023 meeting of the Hazardous Materials Commission. Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5131/638146902440000000</guid>
+</item>
+<item>
+<title>Policy Council Meeting Packet - ENG</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5129</link>
+<pubDate>Fri, 17 Mar 2023 18:21:56 -0800</pubDate>
+<description>Policy Council Meeting Packet - ENG</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5129/638146849160000000</guid>
+</item>
+<item>
+<title>Policy Council Meeting Packet - SPA</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5128</link>
+<pubDate>Fri, 17 Mar 2023 18:21:56 -0800</pubDate>
+<description>Policy Council Meeting Packet - SPA</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5128/638146849160000000</guid>
+</item>
+<item>
+<title>Revised Agenda for the March 21, 2023 meeting of the Advisory Council on Aging's Senior Mobility Action Council (SMAC) </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5130</link>
+<pubDate>Fri, 17 Mar 2023 16:42:11 -0800</pubDate>
+<description>Revised Agenda for the March 21, 2023 meeting of the Advisory Council on Aging's Senior Mobility Action Council (SMAC) </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5130/638146789310000000</guid>
+</item>
+<item>
+<title>Governance Committee</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5127</link>
+<pubDate>Fri, 17 Mar 2023 15:29:50 -0800</pubDate>
+<description>Governance Committee</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5127/638146745900000000</guid>
+</item>
+<item>
+<title>Funding Committee</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5126</link>
+<pubDate>Fri, 17 Mar 2023 15:20:46 -0800</pubDate>
+<description>Funding Committee</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5126/638146740460000000</guid>
+</item>
+<item>
+<title>3-20-23 JJCC-Data & Services Subcommittee Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5125</link>
+<pubDate>Thu, 16 Mar 2023 17:44:53 -0800</pubDate>
+<description>3-20-23 JJCC-Data & Services Subcommittee Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5125/638145962930000000</guid>
+</item>
+<item>
+<title>AODAB Programs and Services Committee Agenda </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5124</link>
+<pubDate>Thu, 16 Mar 2023 16:25:55 -0800</pubDate>
+<description>AODAB Programs and Services Committee Agenda </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5124/638145915550000000</guid>
+</item>
+<item>
+<title>School Subcommittee Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5123</link>
+<pubDate>Thu, 16 Mar 2023 14:49:12 -0800</pubDate>
+<description>School Subcommittee Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5123/638145857520000000</guid>
+</item>
+<item>
+<title>March 20, 2023 Zoning Administrator's meeting agenda </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5122</link>
+<pubDate>Thu, 16 Mar 2023 13:24:17 -0800</pubDate>
+<description>March 20, 2023 Zoning Administrator's meeting agenda </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5122/638145806570000000</guid>
+</item>
+<item>
+<title>KTAC Meeting Cancellation Notice</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5121</link>
+<pubDate>Thu, 16 Mar 2023 10:38:42 -0800</pubDate>
+<description>KTAC Meeting Cancellation Notice</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5121/638145707220000000</guid>
+</item>
+<item>
+<title>Alcohol and Other Drugs Advisory Board March 22 Meeting. </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5120</link>
+<pubDate>Thu, 16 Mar 2023 08:30:37 -0800</pubDate>
+<description>Alcohol and Other Drugs Advisory Board March 22 Meeting. </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5120/638145630370000000</guid>
+</item>
+<item>
+<title>Alamo MAC - 2.7.2023 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5007</link>
+<pubDate>Wed, 15 Mar 2023 22:04:38 -0800</pubDate>
+<description>Alamo MAC - 2.7.2023 Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5007/638145254780000000</guid>
+</item>
+<item>
+<title>Land Use Subcommittee - 2.3.2023 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4985</link>
+<pubDate>Wed, 15 Mar 2023 22:01:41 -0800</pubDate>
+<description>Land Use Subcommittee - 2.3.2023 Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4985/638145253010000000</guid>
+</item>
+<item>
+<title>Alamo MAC - 1.10.2023 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4926</link>
+<pubDate>Wed, 15 Mar 2023 21:56:38 -0800</pubDate>
+<description>Alamo MAC - 1.10.2023 Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4926/638145249980000000</guid>
+</item>
+<item>
+<title>Canceled: Policy Council 3/15/23</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5118</link>
+<pubDate>Wed, 15 Mar 2023 15:45:09 -0800</pubDate>
+<description>Canceled: Policy Council 3/15/23</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5118/638145027090000000</guid>
+</item>
+<item>
+<title>Agenda for ACOA Housing Workgroup Agenda March 20, 203</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5117</link>
+<pubDate>Wed, 15 Mar 2023 15:20:31 -0800</pubDate>
+<description>Agenda for ACOA Housing Workgroup Agenda March 20, 203</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5117/638145012310000000</guid>
+</item>
+<item>
+<title>Rodeo Municipal Advisory Council March Agenda</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5116</link>
+<pubDate>Wed, 15 Mar 2023 14:45:34 -0800</pubDate>
+<description>Rodeo Municipal Advisory Council March Agenda</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5116/638144991340000000</guid>
+</item>
+<item>
+<title>Community Advisory Board on Public Safety Realignment - Outreach & Community Engagement Subcommittee Monthly Meeting held on March 21, 2023. </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5094</link>
+<pubDate>Wed, 15 Mar 2023 14:22:26 -0800</pubDate>
+<description>Community Advisory Board on Public Safety Realignment - Outreach & Community Engagement Subcommittee Monthly Meeting held on March 21, 2023. </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5094/638144977460000000</guid>
+</item>
+<item>
+<title>P2A - 10.11.2022 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4710</link>
+<pubDate>Tue, 14 Mar 2023 20:25:34 -0800</pubDate>
+<description>P2A - 10.11.2022 Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4710/638144331340000000</guid>
+</item>
+<item>
+<title>P2A - 12.13.2022 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4863</link>
+<pubDate>Tue, 14 Mar 2023 20:02:43 -0800</pubDate>
+<description>P2A - 12.13.2022 Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4863/638144317630000000</guid>
+</item>
+<item>
+<title>P2A - 1.10.2023 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4908</link>
+<pubDate>Tue, 14 Mar 2023 20:01:11 -0800</pubDate>
+<description>P2A - 1.10.2023 Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4908/638144316710000000</guid>
+</item>
+<item>
+<title>P2A - 2.14.2023 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5010</link>
+<pubDate>Tue, 14 Mar 2023 19:58:34 -0800</pubDate>
+<description>P2A - 2.14.2023 Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5010/638144315140000000</guid>
+</item>
+<item>
+<title>Click on the date to view meeting CANCELLATION</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5110</link>
+<pubDate>Tue, 14 Mar 2023 16:23:11 -0800</pubDate>
+<description>Click on the date to view meeting CANCELLATION</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5110/638144185910000000</guid>
+</item>
+<item>
+<title>BIMAC Meeting Cancellation Notice</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5115</link>
+<pubDate>Tue, 14 Mar 2023 15:21:35 -0800</pubDate>
+<description>BIMAC Meeting Cancellation Notice</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5115/638144148950000000</guid>
+</item>
+<item>
+<title>Pacheco Municipal Advisory Council February Agenda, 2023</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4997</link>
+<pubDate>Tue, 14 Mar 2023 14:53:44 -0800</pubDate>
+<description>Pacheco Municipal Advisory Council February Agenda, 2023 Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4997/638144132240000000</guid>
+</item>
+<item>
+<title>Rodeo Municipal Advisory Council February Agenda, 2023</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5114</link>
+<pubDate>Tue, 14 Mar 2023 14:46:08 -0800</pubDate>
+<description>Rodeo Municipal Advisory Council February Agenda, 2023</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5114/638144127680000000</guid>
+</item>
+<item>
+<title>Cancelled: Los Medanos Health Advisory Committee meeting, 3/14/23.</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5109</link>
+<pubDate>Tue, 14 Mar 2023 14:14:11 -0800</pubDate>
+<description>Cancelled: Los Medanos Health Advisory Committee meeting, 3/14/23. Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5109/638144108510000000</guid>
+</item>
+<item>
+<title>Assessment Appeals Board Agenda (pdf) </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5097</link>
+<pubDate>Tue, 14 Mar 2023 12:06:39 -0800</pubDate>
+<description>Assessment Appeals Board Agenda (pdf) </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5097/638144031990000000</guid>
+</item>
+<item>
+<title>CoC Community Meeting </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5075</link>
+<pubDate>Tue, 14 Mar 2023 10:52:05 -0800</pubDate>
+<description>CoC Community Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5075/638143987250000000</guid>
+</item>
+<item>
+<title>Community Advisory Board on Public Safety Realignment - Policy & Budget Subcommittee Monthly Meeting for March 17, 2023. </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5095</link>
+<pubDate>Mon, 13 Mar 2023 16:50:12 -0800</pubDate>
+<description>Community Advisory Board on Public Safety Realignment - Policy & Budget Subcommittee Monthly Meeting for March 17, 2023. </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5095/638143338120000000</guid>
+</item>
+<item>
+<title>March 22, 2023 County Planning Commission Meeting - CANCELLED </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5113</link>
+<pubDate>Mon, 13 Mar 2023 16:40:49 -0800</pubDate>
+<description>March 22, 2023 County Planning Commission Meeting - CANCELLED </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5113/638143332490000000</guid>
+</item>
+<item>
+<title>3.14.2023 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5111</link>
+<pubDate>Mon, 13 Mar 2023 15:28:38 -0800</pubDate>
+<description>3.14.2023 Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5111/638143289180000000</guid>
+</item>
+<item>
+<title>ACOA Health Workgroup Meeting Agenda for February 8, 2023</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4999</link>
+<pubDate>Mon, 13 Mar 2023 14:58:36 -0800</pubDate>
+<description>ACOA Health Workgroup Meeting Agenda for February 8, 2023 Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4999/638143271160000000</guid>
+</item>
+<item>
+<title>ACOA Technology Workgroup Meeting Agenda for February 8, 2023</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5112</link>
+<pubDate>Mon, 13 Mar 2023 14:57:07 -0800</pubDate>
+<description>ACOA Technology Workgroup Meeting Agenda for February 8, 2023 Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5112/638143270270000000</guid>
+</item>
+<item>
+<title>Agenda for the February 7, 2023 meeting: Advisory Council on Aging Planning Committee</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4991</link>
+<pubDate>Mon, 13 Mar 2023 14:53:18 -0800</pubDate>
+<description>Agenda for the February 7, 2023 meeting: Advisory Council on Aging Planning Committee Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4991/638143267980000000</guid>
+</item>
+<item>
+<title>P2A - 3.14.2023 Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5090</link>
+<pubDate>Mon, 13 Mar 2023 11:02:37 -0800</pubDate>
+<description>P2A - 3.14.2023 Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5090/638143129570000000</guid>
+</item>
+<item>
+<title>3-15-23 Juvenile Justice Coordinating Council Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5108</link>
+<pubDate>Fri, 10 Mar 2023 17:01:13 -0800</pubDate>
+<description>3-15-23 Juvenile Justice Coordinating Council Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5108/638140716730000000</guid>
+</item>
+<item>
+<title>2/28/2023 - KMAC Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5061</link>
+<pubDate>Fri, 10 Mar 2023 16:44:41 -0800</pubDate>
+<description>2/28/2023 - KMAC Meeting Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5061/638140706810000000</guid>
+</item>
+<item>
+<title>Agenda packet for the October 20, 2022 meeting of the Decision-Making Subcommittee of the Integrated Pest Management Advisory Committee.</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4728</link>
+<pubDate>Fri, 10 Mar 2023 16:13:53 -0800</pubDate>
+<description>Agenda packet for the October 20, 2022 meeting of the Decision-Making Subcommittee of the Integrated Pest Management Advisory Committee. Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4728/638140688330000000</guid>
+</item>
+<item>
+<title>Community Advisory Board on Public Safety Realignment - Programs & Services Subcommittee Monthly Meeting held on March 16, 2023. </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5096</link>
+<pubDate>Fri, 10 Mar 2023 16:13:40 -0800</pubDate>
+<description>Community Advisory Board on Public Safety Realignment - Programs & Services Subcommittee Monthly Meeting held on March 16, 2023. </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5096/638140688200000000</guid>
+</item>
+<item>
+<title>Agenda Packet for the November 17, 2022 meeting of the Integrated Pest Management Advisory Committee</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4818</link>
+<pubDate>Fri, 10 Mar 2023 16:07:59 -0800</pubDate>
+<description>Agenda Packet for the November 17, 2022 meeting of the Integrated Pest Management Advisory Committee Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4818/638140684790000000</guid>
+</item>
+<item>
+<title>03/15/23 JUNTA ASESORA COMUNITARIA DE LA MEDIDA X (Agenda únicamente)</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5107</link>
+<pubDate>Fri, 10 Mar 2023 15:04:18 -0800</pubDate>
+<description>03/15/23 JUNTA ASESORA COMUNITARIA DE LA MEDIDA X (Agenda únicamente)</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5107/638140646580000000</guid>
+</item>
+<item>
+<title>Agenda for the March 15, 2023 Measure X Community Advisory Board meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5106</link>
+<pubDate>Fri, 10 Mar 2023 15:03:14 -0800</pubDate>
+<description>Agenda for the March 15, 2023 Measure X Community Advisory Board meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5106/638140645940000000</guid>
+</item>
+<item>
+<title>Council on Homelessness Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5105</link>
+<pubDate>Fri, 10 Mar 2023 14:57:07 -0800</pubDate>
+<description>Council on Homelessness Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5105/638140642270000000</guid>
+</item>
+<item>
+<title>Agenda Packet for the March 16, 2023 meeting of the Integrated Pest Management Advisory Committee.</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5104</link>
+<pubDate>Fri, 10 Mar 2023 14:41:42 -0800</pubDate>
+<description>Agenda Packet for the March 16, 2023 meeting of the Integrated Pest Management Advisory Committee.</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5104/638140633020000000</guid>
+</item>
+<item>
+<title>Fiscal Subcommittee</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5103</link>
+<pubDate>Fri, 10 Mar 2023 14:23:40 -0800</pubDate>
+<description>Fiscal Subcommittee</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5103/638140622200000000</guid>
+</item>
+<item>
+<title>Policy Council Meeting Packet SPA</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5102</link>
+<pubDate>Fri, 10 Mar 2023 14:21:43 -0800</pubDate>
+<description>Policy Council Meeting Packet SPA</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5102/638140621030000000</guid>
+</item>
+<item>
+<title>Policy Council Meeting Packet ENG</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5101</link>
+<pubDate>Fri, 10 Mar 2023 14:20:40 -0800</pubDate>
+<description>Policy Council Meeting Packet ENG</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5101/638140620400000000</guid>
+</item>
+<item>
+<title>Equity Committee</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5100</link>
+<pubDate>Fri, 10 Mar 2023 11:59:42 -0800</pubDate>
+<description>Equity Committee</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5100/638140535820000000</guid>
+</item>
+<item>
+<title>3/15/23 Ad Hoc Arts Council Steering Committee Agenda</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5099</link>
+<pubDate>Fri, 10 Mar 2023 11:35:57 -0800</pubDate>
+<description>3/15/23 Ad Hoc Arts Council Steering Committee Agenda</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5099/638140521570000000</guid>
+</item>
+<item>
+<title>PATH Committee Meeting 3/16/23</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5098</link>
+<pubDate>Fri, 10 Mar 2023 08:53:20 -0800</pubDate>
+<description>PATH Committee Meeting 3/16/23</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5098/638140424000000000</guid>
+</item>
+<item>
+<title>BIMAC Meeting Agenda Packet</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5092</link>
+<pubDate>Thu, 09 Mar 2023 14:55:22 -0800</pubDate>
+<description>BIMAC Meeting Agenda Packet</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5092/638139777220000000</guid>
+</item>
+<item>
+<title>[AMENDED] Community Advisory Board on Public Safety Realignment - General Monthly Meeting held on February 9, 2023. </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5009</link>
+<pubDate>Thu, 09 Mar 2023 14:45:48 -0800</pubDate>
+<description>[AMENDED] Community Advisory Board on Public Safety Realignment - General Monthly Meeting held on February 9, 2023. Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5009/638139771480000000</guid>
+</item>
+<item>
+<title>3-16-2023 ALUC Meeting CANCELLED</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5091</link>
+<pubDate>Thu, 09 Mar 2023 12:33:04 -0800</pubDate>
+<description>3-16-2023 ALUC Meeting CANCELLED</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5091/638139691840000000</guid>
+</item>
+<item>
+<title>Assessment Appeals Board Agenda (pdf) </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5074</link>
+<pubDate>Wed, 08 Mar 2023 18:37:52 -0800</pubDate>
+<description>Assessment Appeals Board Agenda (pdf) </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5074/638139046720000000</guid>
+</item>
+<item>
+<title>ACOA Membership Committee Meeting Agenda for March 15, 2023</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5089</link>
+<pubDate>Wed, 08 Mar 2023 16:12:02 -0800</pubDate>
+<description>ACOA Membership Committee Meeting Agenda for March 15, 2023</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5089/638138959220000000</guid>
+</item>
+<item>
+<title>ACOA Meeting Agenda for March 15, 2023</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5088</link>
+<pubDate>Wed, 08 Mar 2023 16:09:55 -0800</pubDate>
+<description>ACOA Meeting Agenda for March 15, 2023</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5088/638138957950000000</guid>
+</item>
+<item>
+<title>El Sobrante Municipal Advisory Council (ESMAC) Cleanup and Beautification Subcommittee Meeting; Wednesday, March 14, 2022; 7:00 p.m.</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5087</link>
+<pubDate>Wed, 08 Mar 2023 15:50:10 -0800</pubDate>
+<description>El Sobrante Municipal Advisory Council (ESMAC) Cleanup and Beautification Subcommittee Meeting; Wednesday, March 14, 2022; 7:00 p.m.</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5087/638138946100000000</guid>
+</item>
+<item>
+<title>AODAB Community Awareness Committee Meeting</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5086</link>
+<pubDate>Wed, 08 Mar 2023 14:41:12 -0800</pubDate>
+<description>AODAB Community Awareness Committee Meeting</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5086/638138904720000000</guid>
+</item>
+<item>
+<title>Alcohol and Other Drugs Advisory Board Executive Committee Meeting.</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5085</link>
+<pubDate>Wed, 08 Mar 2023 12:25:36 -0800</pubDate>
+<description>Alcohol and Other Drugs Advisory Board Executive Committee Meeting.</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5085/638138823360000000</guid>
+</item>
+<item>
+<title>LPC School and Family Partnership Committee Meeting - CANCELLED </title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5084</link>
+<pubDate>Wed, 08 Mar 2023 10:02:48 -0800</pubDate>
+<description>LPC School and Family Partnership Committee Meeting - CANCELLED </description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5084/638138737680000000</guid>
+</item>
+<item>
+<title>Policy Council Meeting Packet ENG</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4945</link>
+<pubDate>Tue, 07 Mar 2023 15:33:07 -0800</pubDate>
+<description>Policy Council Meeting Packet ENG Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4945/638138071870000000</guid>
+</item>
+<item>
+<title>Policy Council Meeting Packet SPA</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4946</link>
+<pubDate>Tue, 07 Mar 2023 15:27:32 -0800</pubDate>
+<description>Policy Council Meeting Packet SPA Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4946/638138068520000000</guid>
+</item>
+<item>
+<title>March 6, 2023 FACT Committee Agenda - cancelled</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5068</link>
+<pubDate>Tue, 07 Mar 2023 12:56:14 -0800</pubDate>
+<description>March 6, 2023 FACT Committee Agenda - cancelled</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/5068/638137977740000000</guid>
+</item>
+<item>
+<title>East Richmond Heights Municipal Advisory Council meeting. Wednesday, Sept. 21, 2022; 6:30 pm</title>
+<link>https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4652</link>
+<pubDate>Tue, 07 Mar 2023 09:17:20 -0800</pubDate>
+<description>East Richmond Heights Municipal Advisory Council meeting. Wednesday, Sept. 21, 2022; 6:30 pm Update: Minutes added or updated</description>
+<guid isPermaLink="false">https://www.contracosta.ca.gov/AgendaCenter/PreviousVersions/4652/638137846400000000</guid>
+</item>
+</channel>
+</rss>
